@@ -1,0 +1,22 @@
+{
+  "name": "advanced-css-course",
+  "version": "1.0.0",
+  "description": "natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tyrone-Cartwright/advanced-css-course.git"
+  },
+  "author": "Tyrone Cartwright",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tyrone-Cartwright/advanced-css-course/issues"
+  },
+  "homepage": "https://github.com/Tyrone-Cartwright/advanced-css-course#readme",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
